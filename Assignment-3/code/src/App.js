@@ -28,7 +28,7 @@ var orderDetails={
 
 const App = () => {
   return (
-    <div className="site-container">
+  <div className="site-container">
       <div className='order-details'>
         <div className='nav'>
           <div className='nav-container'>
